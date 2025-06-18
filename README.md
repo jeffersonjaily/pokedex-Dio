@@ -1,4 +1,4 @@
-# Pokédex TCC
+# Pokédex 
 Projeto de uma Pokédex interativa usando HTML, CSS, JavaScript e consumo da PokéAPI.
 
 ## Funcionalidades
